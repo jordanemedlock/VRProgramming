@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3F56B3B9-5791-6F48-B01D-7930CC4D68ED}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TextDisplay.cs">
+    <Files>
+      <File FileName="Assets/SpeechToTextStreaming.cs" Line="54" Column="27" />
+      <File FileName="Assets/TextDisplay.cs" Line="40" Column="11" />
+      <File FileName="Assets/Watson/Examples/ServiceExamples/Scripts/ExampleStreaming.cs" Line="51" Column="5" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
