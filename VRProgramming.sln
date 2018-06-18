@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio for Mac
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRProgramming", "Assembly-CSharp.csproj", "{3F56B3B9-5791-6F48-B01D-7930CC4D68ED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRProgramming", "Assembly-CSharp-Editor.csproj", "{6115F63C-2BE0-B59C-6012-B323F9B754AC}"
